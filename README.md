@@ -2,5 +2,5 @@
  https://github.com/jasontaylordev/CleanArchitecture
  
  Start project and login using the following credentials:
- Username: administrator@localhost
- Password: Administrator1!
+ - Username: administrator@localhost
+ - Password: Administrator1!
